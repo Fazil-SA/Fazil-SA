@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Connect me at fazilsa@windermind.com!💬
+  Connect me at fazilsadev@gmail.com!💬
 </h1>
 
 <p align="center">
